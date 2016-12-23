@@ -13,3 +13,4 @@ int b()
 }
 using namespace st;
 #include <vector>
+int a;
